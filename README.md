@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un modelo de prueba del modulo 2 del PrepCourse de Henry
+Prueba de como crear un repositorio y clonarlo desde githab a mi computadora
